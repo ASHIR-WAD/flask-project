@@ -1,8 +1,0 @@
-flask
-matplotlib.pyplot
-pandas
-base64
-matplotlib
-io
-flask_sqlalchemy
-flask_migrate
